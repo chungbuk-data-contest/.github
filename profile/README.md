@@ -1,4 +1,4 @@
-# Port-It Backend & Android
+# Port-It
 
 | **개발자** | [홍시은](https://github.com/hdg5639) | [한동근](https://github.com/Babsang0826) | [이승훈](https://github.com/tmdgnsle) | [최윤수](https://github.com/ChoiYoonSoo) |
 |-----------|:------------------------:|:---------------------------:|:--------------------------:|:---------------------------:|
