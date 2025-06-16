@@ -1,5 +1,8 @@
 # Port-It
 
+# 디자이너
+
+# 개발자
 | **개발자** | [홍시은](https://github.com/hdg5639) | [한동근](https://github.com/Babsang0826) | [이승훈](https://github.com/tmdgnsle) | [최윤수](https://github.com/ChoiYoonSoo) |
 |-----------|:------------------------:|:---------------------------:|:--------------------------:|:---------------------------:|
 | **프로필** | <img src="https://avatars.githubusercontent.com/u/63907578?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/128709695?s=400&u=1e67683655246f12e26a2c7aeaa2a9976b00b7c1&v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/65535314?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/101058038?v=4" width="150"/> |
