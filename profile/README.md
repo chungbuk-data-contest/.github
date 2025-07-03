@@ -33,6 +33,9 @@
 AI 기반 작품 키워드 분석으로 기업 추천 기능을 제공하고, 학교 이메일 인증 및 구독 기능으로 신뢰성을 높여 실제 취업 기회까지 연결합니다.
 
 ## 주요 기능
+- 작품 기반 구직자와 기업 간 매칭 및 연결
+- 1:1 실시간 채팅으로 빠른 소통
+- AI 기반 작품 키워드 분석 및 기업 추천
 
 | 구분 | 내용 |
 |------|------|
@@ -62,15 +65,24 @@ AI 기반 작품 키워드 분석으로 기업 추천 기능을 제공하고, �
 ![Gitgub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
-### Backend & Mobile
+### Backend
 ![Java17](https://img.shields.io/badge/Java17-4D7896?style=flat&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-012F38?style=flat&logo=Gradle&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6BB344?style=flat&logo=SpringSecurity&logoColor=white)
+![WebSocket(STOMP)](https://img.shields.io/badge/WebSocket-231F20?style=flat&logo=WebSocket&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0289CE?style=flat&logo=QueryDSL&logoColor=white)
+
+### Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-B916DD?style=flat&logo=Kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-9FC036?style=flat&logo=Android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-45B37F?style=flat&logo=Retrofit&logoColor=white)
+![OKHttp](https://img.shields.io/badge/OKHttp-017164?style=flat&logo=OKHttp&logoColor=white)
+![KotlinCoroutines](https://img.shields.io/badge/KotlinCoroutines-5468F1?style=flat&logo=KotlinCoroutines&logoColor=white)
+![ExoPlayer](https://img.shields.io/badge/ExoPlayer-E7504E?style=flat&logo=ExoPlayer&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4FAA41?style=flat&logo=MongoDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-A41E11?style=flat&logo=Redis&logoColor=white)
 
 ### Infra
