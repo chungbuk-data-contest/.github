@@ -91,3 +91,7 @@ AI 기반 작품 키워드 분석으로 기업 추천 기능을 제공하고, �
 ### Communication
 ![Discord](https://img.shields.io/badge/Discord-5765F2?style=flat&logo=Discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
+
+## Repository
+- [Port-It Backend 바로가기](https://github.com/6-data-contest/portit-server)
+- [Port-It Android 바로가기](https://github.com/chungbuk-data-contest/PortIt-Android)
