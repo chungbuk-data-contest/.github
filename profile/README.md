@@ -6,8 +6,8 @@
 |-----------|:------------------------:|
 | **프로필** | <img src="https://avatars.githubusercontent.com/u/63907578?v=4" width="150"/> |
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> |
-| **역할** | `백엔드` |
-| **R&R** | 공공데이터 API<br>AWS(EC2, RDS, S3)<br>QueryDSL<br>기업, 작품 관련 로직 |
+| **역할** | `디자이너` |
+| **R&R** | UI 디자인 |
 | UI Link | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/>](https://www.figma.com/design/zyRyyID4D0pp4enVrdKsSM/%EC%B6%A9%EB%B6%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=0-1&t=VdKgLn510z80M4l1-1)
 
 ## 개발자
