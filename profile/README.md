@@ -5,9 +5,10 @@
 | **디자이너** | 하수정 |
 |-----------|:------------------------:|
 | **프로필** | <img src="https://github.com/user-attachments/assets/5bf86956-26cd-4d03-a01c-114bd6c1f283" width="150"/> |
-| **기술 스택** | [<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/>](https://www.figma.com/design/zyRyyID4D0pp4enVrdKsSM/%EC%B6%A9%EB%B6%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=0-1&t=VdKgLn510z80M4l1-1) |
+| **디자인 툴** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20"/> |
 | **역할** | `디자이너` |
 | **R&R** | UI 디자인 |
+| **디자인 링크** | [🔗 Figma 디자인](https://www.figma.com/design/zyRyyID4D0pp4enVrdKsSM/%EC%B6%A9%EB%B6%81%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=0-1&t=VdKgLn510z80M4l1-1) 
 
 ## 개발자
 | **개발자** | [홍시은](https://github.com/XIOZ119) | [한동근](https://github.com/l0o0lv) | [이승훈](https://github.com/tmdgnsle) | [최윤수](https://github.com/ChoiYoonSoo) |
