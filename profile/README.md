@@ -45,3 +45,29 @@ AI 기반 작품 키워드 분석으로 기업 추천 기능을 제공하고, �
 | 작품 상세 페이지 | 채팅 페이지 |
 |:--:|:--:|
 | ![detail](이미지링크) | ![chat](이미지링크) |
+
+## Stacks
+
+### Environment
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-2C2255?style=flat&logo=intellij-idea&logoColor=white)
+![Gitgub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+
+### Backend & Mobile
+![Java17](https://img.shields.io/badge/Java17-4D7896?style=flat&logo=Java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-012F38?style=flat&logo=Gradle&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B916DD?style=flat&logo=Kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-9FC036?style=flat&logo=Android&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-E6B91E?style=flat&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-A41E11?style=flat&logo=Redis&logoColor=white)
+
+### Infra
+![AWS](https://img.shields.io/badge/AWS-333664?style=flat&logo=aws&logoColor=white)
+
+### Communication
+![Discord](https://img.shields.io/badge/Discord-5765F2?style=flat&logo=Discord&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
