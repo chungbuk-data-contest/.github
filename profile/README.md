@@ -16,7 +16,7 @@
 | **프로필** | <img src="https://avatars.githubusercontent.com/u/63907578?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/128709695?s=400&u=1e67683655246f12e26a2c7aeaa2a9976b00b7c1&v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/65535314?v=4" width="150"/> | <img src="https://avatars.githubusercontent.com/u/101058038?v=4" width="150"/> |
 | **기술 스택** | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40"/> |
 | **역할** | `백엔드` | `백엔드` | `안드로이드` | `안드로이드` |
-| **R&R** | 공공데이터 API<br>AWS(EC2, RDS, S3)<br>QueryDSL<br>기업, 작품 관련 로직 | 실시간 채팅(WebSocket)<br>JWT(Aceess, Refresh)<br>TossPayments 결제<br>FCM 푸시알림<br>CoolSms 문자인증(Redis) |  |  |
+| **R&R** | 공공데이터 API<br>AWS(EC2, RDS, S3)<br>QueryDSL<br>기업, 작품 관련 로직 | 실시간 채팅(WebSocket)<br>JWT(Aceess, Refresh)<br>TossPayments 결제<br>FCM 푸시알림<br>CoolSms 문자인증(Redis) |  | Compose UI<br>MVVM + Repository<br>파일 업로드(Retrofit2 Multipart)<br>작품 등록/마이페이지 관련 로직 |
 
 ## 프로젝트 기획 배경
 [조선일보의 기사](https://www.chosun.com/economy/economy_general/2025/03/12/RYNZ7HLF3JCOJKSPPE4VJMSTEE/)에 따르면, 국내 청년층(15~29세) 중 *`쉬었음`* 상태로 분류된 인원이 사상 처음으로 50만명을 넘어섰습니다. 청년 고용률은 49개월 만에 최대 감소폭(-1.7%p)을 기록했습니다.
